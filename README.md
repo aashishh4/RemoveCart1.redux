@@ -2,7 +2,7 @@
 ## Available Scripts
 
 In the project directory, you can run:
-
+Author -Ashish singh
 ### `npm start`
 
 Runs the app in the development mode.\
